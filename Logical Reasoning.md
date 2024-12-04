@@ -1,12 +1,12 @@
-#Letter and Symbol series
+# Letter and Symbol series
 
 
-#Notes
+# Notes
 
-#Type 1 :
+# Type 1 :
 -> both the letter pattern and the number pattern. Fill the blank in the middle of the series or end of the series.
 
-#Question
+# Question
 
 3.
 FAG, GAF, HAI, IAH, ____
@@ -38,7 +38,7 @@ ans-c
 
 
 
-#Type2 - Look carefully at the sequence of symbols to find the pattern. Select correct pattern.
+# Type2 - Look carefully at the sequence of symbols to find the pattern. Select correct pattern.
 
 
 link to problems  - https://www.indiabix.com/logical-reasoning/letter-and-symbol-series/006001
